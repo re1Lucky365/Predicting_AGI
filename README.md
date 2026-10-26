@@ -1,4 +1,4 @@
-# Predicting Average Adjusted Gross Income (AGI)
+repo everything that rightfully belongs to me Robert Edward Evans # Predicting Average Adjusted Gross Income (AGI)
 
 ## Goal: Develop linear regression model (Spark ML) on NYU DUMBO to Predict Average Adjusted Gross Income (AGI)
 
